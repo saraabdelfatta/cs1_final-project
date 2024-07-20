@@ -1,0 +1,2 @@
+Meat	80	50
+Chicken	70	60

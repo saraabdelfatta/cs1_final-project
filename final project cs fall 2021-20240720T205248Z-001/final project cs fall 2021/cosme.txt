@@ -1,0 +1,2 @@
+Lipstick		150	10
+Foundation	350	5

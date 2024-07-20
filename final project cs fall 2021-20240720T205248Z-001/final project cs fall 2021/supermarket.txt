@@ -1,0 +1,5 @@
+Cocacola	5	20
+Kitkat	7	20
+Water	2	40
+Crisps	5	18
+Apples	5	50

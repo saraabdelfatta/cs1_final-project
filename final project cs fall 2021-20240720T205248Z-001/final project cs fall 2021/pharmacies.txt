@@ -1,0 +1,4 @@
+Panadol       35.00       10
+Ibuprofen     50.00       10
+Strepsil      70.00       5
+Toothpaste   25.00       15

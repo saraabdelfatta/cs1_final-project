@@ -1,0 +1,5 @@
+Bread	1	97
+Biscuit	15	20
+Pie	25	15
+Baguette	15	15
+Doughnut	20	20
